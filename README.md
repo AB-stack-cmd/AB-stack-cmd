@@ -8,9 +8,9 @@ I'm a dedicated developer with a keen interest in crafting elegant solutions to 
 
 ## 💻 Technical Skills
 
-- **Languages**: JavaScript, Python, TypeScript, and more
-- **Specializations**: Full-stack development, cloud architecture, DevOps
-- **Tools & Platforms**: Git, Docker, CI/CD pipelines, and modern development frameworks
+- **Languages**: JavaScript, Python, TypeScript, C++ and more
+- **Specializations**: Full-stack development, AI, GenAI
+- **Tools & Platforms**: Git, Docker and modern development frameworks
 
 ## 🎯 What I'm Interested In
 
