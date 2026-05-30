@@ -27,9 +27,9 @@ I'm a dedicated developer with a keen interest in crafting elegant solutions to 
 
 I'm always excited to collaborate and discuss interesting ideas:
 
-- 💼 **LinkedIn**: [your-linkedin-url](#)
-- 🐦 **Twitter**: [@yourhandle](#)
-- 📧 **Email**: your.email@example.com
+- 💼 **LinkedIn**: www.linkedin.com/in/abir-sarkar09
+- 🐦 **Twitter**: Abir sarkar(@abir2430)
+- 📧 **Email**: abirsarkar123455@gmail.com
 - 🌐 **Website**: [yourwebsite.com](#)
 
 ## 📚 Latest Articles & Blog Posts
