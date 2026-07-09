@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm ABIR
 
-Welcome to my GitHub profile! I'm passionate about building great software and contributing to the developer community.
+Passionate about building great software and contributing to the developer community.
 
 ## 🚀 About Me
 
